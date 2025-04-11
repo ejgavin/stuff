@@ -2,7 +2,7 @@
   "name": "proy-iframe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/apps/win11stuff",
+  "homepage": "/apps/win11stuff/public/index.html",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
